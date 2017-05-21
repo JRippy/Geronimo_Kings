@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Geronimo</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="VikingsName">The king Ragnar</string>
+    <string name="VikingsDetail">Vikings</string>
+    <string name="GoFName">The King of the north</string>
+    <string name="GoFDetail">Game Of Throne</string>
+    <string name="CowName">The king of nothing</string>
+    <string name="CowDetail">Something else</string>
+</resources>
